@@ -20,7 +20,7 @@ public class cliente {
 
     private String nome;
 
-    private int cpf;
+    private Number cpf;
 
     private String emeil;
 
